@@ -25,6 +25,7 @@
   
 
 
+  
 
   ### i)  Stock analysis for the Year 2017 :
 <p align="center">
