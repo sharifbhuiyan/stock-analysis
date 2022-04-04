@@ -8,15 +8,13 @@
 <p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. Project_Analysis VBA file is is available in download link as below. <p>
   
   
-  - [ Year basis stock_Analysis]
-  
-  (https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
+  - [ Year wise stock_Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
 
 
 ## 2. Results: 
 <p align="justify">Basically Project is accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
 
-### i) Theater outcomes based on launch date:
+### i) Year, 2017:
 <p align="justify">A “Pivot table” is created based on  "successful," "failed," and "canceled" outcomes. 
 A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
 
@@ -27,7 +25,7 @@ A “Line with markers” chart has been created to visualize campaign outcomes 
 
  
 
-### ii)  Outcomes based on Goals :
+### ii)  Year 2018 :
 <p align="justify">Spreasheet function is created to collect the outcomes and goals for the “plays” subcategory of dataset and calculated the percentage of successful, failed, and canceled projects for each campaign.<p>
 
 A line chart is created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
