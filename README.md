@@ -1,17 +1,17 @@
 
-## **<h1 align="center"> Stock-analysis**
----
+## **<h1 align="center"> Refactoring VBA _code for stock Analysis**
+
 
 
 
   ## 1. Overview of Project: 
-<p align="justify">The purpose of the project to know how different campaigns fared in relation to their launch dates and their funding goals. Analysis is performed to project the fundraise considering in a short amount of time.<p>
- <p align="justify">The project contains two technical analyses including tables and graphically visualization. Table and chart are created in MSExcel which is available in download link as below. <p>
+<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. <p>
+  
   
   - [Theater Outcomes Based on Launch Date and Outcomes Based on Goals](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Kickstarter_Challenge.zip)  
 
 
-## 2. Analysis and Challenges: 
+## 2. Results: 
 <p align="justify">Basically Project is accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
 
 ### i) Theater outcomes based on launch date:
@@ -37,23 +37,22 @@ A line chart is created to visualize the percentage of successful, failed, and c
 
  
 
-## 3. Final Outcomes from analysis:
- 
-### Theater Outcomes by Launch Date
-  - From the analysis, it is cleared that the most successful month for Kickstarter campaigns was May.
-  - <p align="justify">Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though successful and failed outcomes of December showing almost in same point. <p>
-
-
-
-### Outcomes based on Goals
-<p align="justify">The 100% failed range was ‘45000 to 49999’, where number of total project was single. Though the highest number of successful in target range 1000 to 4999, which was 73%. But the highest successful rate 76% was in target range “Less than 1000”.<p>  
-
-
-
-### some other possible tables and graphs that could be created
+## 3. Summary:
+  <p align="justify">Though programmers and software developers refactor the code to improve the design, structure and implementation of software, besides advantages, it has disadvantages also.<p>
   
-  - Clustered column chart can be created for showing Theater outcomes in “Y” axis and months in “X” axis.
+###   Advantages:
+  - Almost all codes are available, no need to expedite whole thing.
+  - Codes are well organized.
+  - Helps to follow sequence. 
+  - It helps to find bugs
+  - Time saving
+
+
+
+### Disadvantages:
   
-  - Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot.
+  - Though the code is pre-defined, no scope to experiment how to start coding from the beginning.
   
-  - Measure of central tendency and measure of variation or dispersion can be used for skewed distributions or distributions with outliers.
+  - It is not possible to know if there any bugs on it.
+  
+  
