@@ -5,7 +5,7 @@
 
 
   ## 1. Overview of Project: 
-<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. Project_Analysis VBA file is is available in download link as below. <p>
+<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. Project_Analysis VBA file is available in download link as below. <p>
   
   
   - [ Year wise stock_Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
@@ -13,36 +13,28 @@
 
 ## 2. Results: 
   
-  ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+<p align="justify"> After Refactoring-code, It is possible to execute large data and no longer time will take to get result. It has expand the limitation. It is capable to include the entire stock market over the last few years. it will work as well for thousands of stocks. <p>
   
-<p align="justify">Basically Project is accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
-
-### i) Year, 2017:
+  <p align="justify"> Arrys are created to make the project success :<p>
   
   ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+    Dim tickervolumes(11) As Long
+    Dim tickerStartingPrice(11) As Single
+    Dim tickerEndingPrice(11) As Single
 ```
-<p align="justify">A “Pivot table” is created based on  "successful," "failed," and "canceled" outcomes. 
-A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
+  
 
 
+
+  ### i)  Stock analysis for the Year 2017 :
 <p align="center">
   <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
 </p>
 
  
 
-### ii)  Year 2018 :
-<p align="justify">Spreasheet function is created to collect the outcomes and goals for the “plays” subcategory of dataset and calculated the percentage of successful, failed, and canceled projects for each campaign.<p>
 
-A line chart is created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
-
+### ii)  Stock analysis for the Year 2018 :
 
   <p align="center">
   <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
