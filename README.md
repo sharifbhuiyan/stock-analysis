@@ -5,7 +5,7 @@
 
 
   ## 1. Overview of Project: 
-<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. <p>
+<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. Project_Analysis VBA file is is available in download link as below. <p>
   
   
   - [ Year basis stock_Analysis]
