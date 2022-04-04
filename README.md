@@ -8,7 +8,9 @@
 <p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. <p>
   
   
-  - [Theater Outcomes Based on Launch Date and Outcomes Based on Goals](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Kickstarter_Challenge.zip)  
+  - [Theater Outcomes Based on Launch Date and Outcomes Based on Goals]
+  
+  (https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
 
 
 ## 2. Results: 
@@ -20,7 +22,7 @@ A “Line with markers” chart has been created to visualize campaign outcomes 
 
 
 <p align="center">
-  <img width="500" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+  <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
 </p>
 
  
@@ -32,7 +34,7 @@ A line chart is created to visualize the percentage of successful, failed, and c
 
 
   <p align="center">
-  <img width="800" height="300" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png
+  <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
 </p>
 
  
