@@ -57,7 +57,6 @@
 ### Disadvantages:
   
   - Though the code is pre-defined, no scope to experiment how to start coding from the beginning.
-  
   - It is not possible to know if there any bugs on it.
   
   
