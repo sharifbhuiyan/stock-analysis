@@ -12,9 +12,22 @@
 
 
 ## 2. Results: 
+  
+  ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+  
 <p align="justify">Basically Project is accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
 
 ### i) Year, 2017:
+  
+  ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 <p align="justify">A “Pivot table” is created based on  "successful," "failed," and "canceled" outcomes. 
 A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
 
